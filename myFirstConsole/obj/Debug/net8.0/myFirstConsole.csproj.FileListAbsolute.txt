@@ -1,0 +1,15 @@
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\bin\Debug\net8.0\myFirstConsole.exe
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\bin\Debug\net8.0\myFirstConsole.deps.json
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\bin\Debug\net8.0\myFirstConsole.runtimeconfig.json
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\bin\Debug\net8.0\myFirstConsole.dll
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\bin\Debug\net8.0\myFirstConsole.pdb
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\myFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\myFirstConsole.AssemblyInfoInputs.cache
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\myFirstConsole.AssemblyInfo.cs
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\myFirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\myFirstConsole.sourcelink.json
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\myFirstConsole.dll
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\refint\myFirstConsole.dll
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\myFirstConsole.pdb
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\myFirstConsole.genruntimeconfig.cache
+C:\Users\jusnk\Desktop\Githubrepo1\myFirstConsole\obj\Debug\net8.0\ref\myFirstConsole.dll
